@@ -10,4 +10,5 @@ OBS: This requires tmux 2.0+ to work...
 Screenshot:
 
 v0.1
-![screenshot](https://cloud.githubusercontent.com/assets/1178393/20225858/afeae842-a82c-11e6-8c93-c8e85043cf99.png)
+![screenshot](https://cloud.githubusercontent.com/assets/1178393/20226022/79dbfb8c-a82d-11e6-814e-79ad9e23a5a0.png)
+
